@@ -1,0 +1,50 @@
+/** Heropy 튜토리얼에서: https://heropy.blog/2019/04/24/html-css-starter/
+ *
+ * CSS는 다음과 같이 이해할 수 있습니다.
+ * 
+ * 선택자 {
+ *    속성: 값;
+ *    속성: 값;
+ * }
+ */
+
+/* 각 선택자를 완성하십시오. 
+ * 불필요한 선택자를 삭제하고
+ * 필요에 따라 추가 선택자를 추가하십시오. 
+ */
+body {
+
+}
+
+header {
+
+}
+
+.container {
+
+}
+
+.container-left {
+
+}
+
+.logo {
+
+}
+
+.logo img {
+
+}
+
+nav.menu {
+
+}
+
+nav .menu-item {
+
+}
+
+/* 불필요할 것 같아 */
+.clearfix::after {
+
+}
