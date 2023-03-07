@@ -1,9 +1,9 @@
-const messages = require('../messages');
+const printMsgs = require('../messages');
 
 test('Console log was called at least 3 times', () => {
     const logSpy = jest.spyOn(global.console, 'log');
 
-    messages();
+    printMsgs();
 
     expect(logSpy).toHaveBeenCalledTimes(3);
 });
