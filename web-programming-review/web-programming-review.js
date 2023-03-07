@@ -1,21 +1,17 @@
 /**
- * Heropy 튜토리얼 저장소에서: https://github.com/HeropCode/GitHub-Responsive
- * 
- * JavaScript file: https://github.com/HeropCode/GitHub-Responsive/blob/master/js/main.js
+ * Dev.to에서: https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0
  * 
  * 메뉴 버튼과 반응형 메뉴를 생성하십시오.
  */
 
-(function (window, document){
-    'use strict';
+// @TODO: querySelector 및 getElementById를 사용하여 관련 메뉴 노드를 가져오십시오.
+const menu;
+const menuButton;
 
-    const $menuToggle; // getElementById로 메뉴 버튼을 찾기
+// @TODO: 반응형 메뉴를 열고 닫는 toggleMenu 함수를 작성하십시오.
+function toggleMenu() {
 
-    // 창 크리 조정을 위한 eventListener 추가
+}
 
-    // 메뉴 버튼에 대한 eventListener 추가
-
-    // 두 가지 기능을 만드십시오. 
-    // 하나는 메뉴 항목을 'on'
-    // 다른 하나는 메뉴 항목을 'off'
-});
+// @TODO: 메뉴 버튼 클릭을 수신하는 eventListener 생성하십시오.
+menuButton.addEventListener('click', toggleMenu);

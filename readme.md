@@ -27,7 +27,8 @@
 2. CSS: 선택자의 속성 및 값으로 스타일을 지정합니다
 3. JavaScript: 웹사이트에 기능을 추가합니다
 
-[Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)에서 보여준 것처럼 매우 간단한 탐색 메뉴를 만들 것입니다.
+[Heropy 튜토리얼](https://heropy.blog/2019/04/24/html-css-starter/)에서 보여준 것처럼 매우 간단한 탐색 메뉴를 만들 것입니다.<br>
+그런 다음에 [Dev.to 코드](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0)를 사용하여 반응형 메뉴를 만들 것입니다.
 
 ![heropy-tutorial-img](https://heropy.blog/images/screenshot/html-css-starter/guthub_clone_page_header_structure.jpg)
 
@@ -45,4 +46,4 @@
 
 1. `numbers.js` : 수업 예시
 2. `messages.js` : p.63 예시
-3. `print.js` : p.65 에시
+3. `print.js` : p.65 예시
